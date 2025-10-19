@@ -8,15 +8,19 @@ An intelligent AI-powered chatbot that represents **NeuraVis Technologies**, bui
 
 **Click above to interact with the live chatbot on Hugging Face!** No installation required - just start chatting.
 
-## � Video Demo
+## 🎥 Video Demo
 
 <div align="center">
-  <iframe src="https://drive.google.com/file/d/1tdmvuhTKL3w6S0zN9S33uSyDqtHn6qfM/preview" width="640" height="400" allow="autoplay" frameborder="0"></iframe>
+  <a href="https://drive.google.com/file/d/1tdmvuhTKL3w6S0zN9S33uSyDqtHn6qfM/preview" target="_blank">
+    <img src="https://drive.google.com/thumbnail?id=1tdmvuhTKL3w6S0zN9S33uSyDqtHn6qfM&sz=w640" alt="Watch Demo Video" width="640" style="border: 2px solid #ddd; border-radius: 8px;"/>
+  </a>
+  <br/>
+  <b>▶️ Click the thumbnail above to watch the full demonstration video</b>
 </div>
 
-**Can't see the video above?** [Click here to watch on Google Drive](https://drive.google.com/file/d/1tdmvuhTKL3w6S0zN9S33uSyDqtHn6qfM/preview)
+<br/>
 
-The video demonstrates all key features including business, lead collection, and feedback logging.
+The video demonstrates all key features including business Q&A, lead collection, and feedback logging.
 
 ## �🎯 Features
 
