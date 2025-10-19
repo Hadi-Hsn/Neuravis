@@ -1,0 +1,23 @@
+NeuraVis Technologies
+Empowering organizations with intelligent, human-centric AI that enhances trust and decision-making.
+
+Mission:
+To design transparent and ethical AI systems that augment human intelligence rather than replace it.
+
+Services:
+
+AI Consulting and Strategy
+
+Custom LLM APIs
+
+Data Analytics Platforms
+
+Ethical AI Auditing
+
+Responsible AI Workshops
+
+Team:
+Dr. Laila Haddad (CEO), Omar Khalil (CTO), and Nadine Saleh (Head of Operations) — experts in AI ethics, deep learning, and operational excellence.
+
+Unique Value:
+NeuraVis integrates AI innovation with ethical governance, offering explainable, human-aligned automation for sustainable business growth.

@@ -1,0 +1,5 @@
+openai
+gradio
+requests
+PyPDF2
+python-dotenv
