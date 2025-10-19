@@ -2,28 +2,21 @@
 
 An intelligent AI-powered chatbot that represents **NeuraVis Technologies**, built with OpenAI's GPT and deployed via Gradio.
 
-## 🎥 Video Demo
+## 🚀 Live Demo
 
-[![Watch the Demo Video](https://img.shields.io/badge/▶️_Watch_Demo_Video-FF0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tdmvuhTKL3w6S0zN9S33uSyDqtHn6qfM/view?usp=sharing)
+[![Try it on Hugging Face](https://img.shields.io/badge/🤗_Try_Live_Demo-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/hadihasan/Assignment_3)
 
-**Click the button above to watch the full demonstration!** The video showcases all key features including business Q&A, lead collection, and feedback logging.
+**Click above to interact with the live chatbot on Hugging Face!** No installation required - just start chatting.
 
-<details>
-<summary>🎬 Embedded Video Player (Click to expand)</summary>
+## � Video Demo
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1tdmvuhTKL3w6S0zN9S33uSyDqtHn6qfM/view?usp=sharing">
-    <img src="https://drive.google.com/thumbnail?id=1tdmvuhTKL3w6S0zN9S33uSyDqtHn6qfM&sz=w1000" alt="Video Thumbnail" width="600"/>
-  </a>
-  <p><i>Click the thumbnail above to play the video</i></p>
+  <iframe src="https://drive.google.com/file/d/1tdmvuhTKL3w6S0zN9S33uSyDqtHn6qfM/preview" width="640" height="400" allow="autoplay" frameborder="0"></iframe>
 </div>
 
-**Direct Player Links:**
+**Can't see the video above?** [Click here to watch on Google Drive](https://drive.google.com/file/d/1tdmvuhTKL3w6S0zN9S33uSyDqtHn6qfM/preview)
 
-- [▶️ Open in Google Drive Player](https://drive.google.com/file/d/1tdmvuhTKL3w6S0zN9S33uSyDqtHn6qfM/preview)
-- [📥 Download Video](https://drive.google.com/uc?export=download&id=1tdmvuhTKL3w6S0zN9S33uSyDqtHn6qfM)
-
-</details>
+The video demonstrates all key features including business, lead collection, and feedback logging.
 
 ## �🎯 Features
 
