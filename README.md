@@ -22,7 +22,17 @@ An intelligent AI-powered chatbot that represents **NeuraVis Technologies**, bui
 
 The video demonstrates all key features including business Q&A, lead collection, and feedback logging.
 
-## �🎯 Features
+### 📱 Push Notifications Screenshot
+
+<div align="center">
+  <img src="https://drive.google.com/thumbnail?id=1I0PCCUAtSXIrYDu2ZiRV_azY0j7XNFnr&sz=w600" alt="Pushover Notifications" width="600" style="border: 2px solid #ddd; border-radius: 8px;"/>
+  <br/>
+  <i>Real-time notifications received via Pushover app when leads and feedback are recorded</i>
+</div>
+
+<br/>
+
+## Features
 
 - **Business Q&A**: Answers questions about NeuraVis's mission, services, team, and values
 - **Lead Collection**: Records customer contact information via `record_customer_interest` tool
